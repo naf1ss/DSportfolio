@@ -1,4 +1,4 @@
-# DSportfolio# Data Visualization Portfolio
+# Data Visualization Portfolio #
 
 
 Welcome! I'm Nafisul Hasan Sami — a Math and Art major passionate about exploring how creativity and technology intersect to drive innovation.
@@ -7,33 +7,33 @@ Welcome! I'm Nafisul Hasan Sami — a Math and Art major passionate about explor
 At the crossroads of creativity and technology, I’m a Math and Art major passionate about exploring how these worlds intersect to drive innovation. Mathematics sharpens my analytical thinking, while my lifelong love for art fuels my creativity, whether I’m designing digital artwork, diving into programming, or strategizing in a competitive game. Curiosity, adaptability, and a sense of humor are at the core of who I am. I approach challenges with precision and creativity, finding unique solutions and enjoying the process along the way. My interests span the impact of technology on art, the strategic depth of gaming, and the power of humor to connect with others. I believe that meaningful work comes from blending intellect, creativity, and human connection. With these values in mind, I’m excited to continue learning, innovating, and shaping a future where art and technology come together to inspire.
 
 
-Welcome to my data visualization portfolio! Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
+Here, you'll find a collection of projects showcasing my skills in data analysis and visualization. I am passionate about turning data into meaningful insights and compelling visuals.
 
 
 To learn more about me, you can visit:
 
 
-- 🌐 [My Website](https://nuancesbynafis.com)
-- 💻 [My GitHub](https://github.com/naf1ss)
-- 📄 [My Resume](Resume.pdf)
+- [My Website](https://nuancesbynafis.com)
+- [My GitHub](https://github.com/naf1ss)
+- [My Resume](Resume.pdf)
+- [Photography](https://www.instagram.com/nuancesbynafis/)
 
 
 ---
-
-
-## Project 1: Recreate & Remix
 
 
 ## 🎭 Project 1: Gender Wage Trends in Art Professions (2014–2022)
 
 
 ![Preview of Gender Wage Remix](Images/Pic1.jpg)
-*Grouped bar chart showing gender wage trends in art professions*
+
 
 
 **Goal:** Explore wage trends among male and female professionals in art-related fields over time and highlight the gender wage gap more clearly. 
+
 **Motivation:** The original line chart (from DataUSA) effectively displayed trends but did not emphasize the wage disparity between genders. This project remixes the visualization to offer clearer comparisons. 
-**Tools:** Python, Plotly, Canva
+
+**Tools:** Python, Plotly
 
 
 ---
@@ -66,7 +66,7 @@ I transformed the original line graph into a grouped bar chart to improve clarit
 *Recreate*
 
 ![Remix](Project1/DS311_RecreateRemix/Remix.png)
-*Remix*
+*Remix: Grouped bar chart showing gender wage trends in art professions*
 
 
 ### 📁 Files
@@ -101,13 +101,15 @@ I transformed the original line graph into a grouped bar chart to improve clarit
 ## 🖼️ Project 2: Women Artists Remain Underrepresented in the Art World
 
 
-![Preview of Women Artists Infographic](assets/women_artists_preview.png) 
-*Infographic highlighting gender disparities in art education, museum collections, and the art market*
+![Preview of Women Artists Infographic](Images/Pic2.jpg) 
+
 
 
 **Goal:** Use visual storytelling to highlight how women, despite being the majority of art school graduates, remain drastically underrepresented in museum collections, exhibitions, and the art market. 
+
 **Motivation:** This project addresses a persistent gender gap in the art world using data-driven design and compelling visual contrasts. 
-**Tools:** Canva, Illustrator, Python (data prep), Research Synthesis
+
+**Tools:** Python (data prep), Research Synthesis, Procreate, Picsart
 
 
 ---
@@ -143,13 +145,17 @@ The infographic is organized into four panels:
 
 ---
 
+### 📊 Final Visualization
+
+![Infographic](Project2/Infographic1.jpeg)
+
+--- 
 
 ### 📁 Files
 
 
-- 🖼️ [Infographic (PDF)](assets/Infographics_Nafis.pdf) 
-- 📊 [Preview Image](assets/women_artists_preview.png) *(insert .png or .jpg)* 
-- 📁 [Supporting Notes or Markdown Summary](projects/women_artists_inequality.md)
+ 
+- 📁 [Report (Google Drive)](https://drive.google.com/file/d/1PGPeEgvyduiUrptuVL83wu7FGRGxC1la/view?usp=sharing)
 
 
 ---
@@ -171,39 +177,69 @@ The infographic is organized into four panels:
 ### 🤖 Citations
 
 
-- ChatGPT – Assisted in brainstorming structure and identifying high-impact data storytelling techniques 
-- Canva/Adobe tools – Used for infographic design
+- ChatGPT – Assisted in brainstorming structure and identifying high-impact data storytelling techniques
 
 
 ---
 
 
-## 🎨 Project 3: Color in Urban Art
+## 🏫 Project 3: Why Choose Gettysburg College?
 
+![Preview of Gettysburg Infographic](Images/Pic3.jpeg)
 
-**Goal:** Analyze and visualize the use of color in urban public murals. 
-**Motivation:** Art is data too. This project explores how artists use color and space in public murals. 
-**Tools:** Python, Pillow, Seaborn, Canva
+**Goal:** Present a data-driven snapshot of Gettysburg College to highlight its academic value, affordability, diversity, and student success.
 
+**Motivation:** While colleges often promote themselves with anecdotal or generic content, this project uses publicly available data to make an evidence-based case for why Gettysburg is a strong liberal arts institution. As a student myself, I wanted to showcase our college’s strengths visually and persuasively.
 
-- 📓 [Notebook](projects/color_theory.ipynb)
-- 🎨 [Color Palette Image](assets/mural_palette.png)
-- 📁 [Image Assets](data/murals/)
-- 🌐 [Art Source](https://www.publicartarchive.org/)
-
+**Tools:** Procreate, Picsart
 
 ---
 
+### 🔁 Remix Summary
 
-## 📬 Contact
+I compiled and reworked visual elements sourced from the IPEDS federal database and College Factual into a unified, branded infographic. This included modifying bar charts, creating new donut charts for racial/ethnic and arts major breakdowns, and re-coloring all visuals in Gettysburg’s signature palette.
+
+---
+
+### 🎨 Design Decisions
+
+- **Color Scheme:** Gettysburg College’s brand colors — navy blue (#002855), orange (#F26F21), and neutral grays  
+- **Layout:** Multi-section horizontal structure to mimic a digital brochure  
+- **Typography:** Strong headings with readable body text; fonts chosen to mirror Gettysburg marketing materials  
+- **Icons & Imagery:** Used academic and community icons (graduation caps, globe, people, charts) for visual readability  
+- **Chart Restyling:** Original IPEDS bar and pie charts were recreated in cleaner, more thematic formats with simplified labels and legends
+
+---
+
+### 📊 Final Visualization
+
+![Infographic](Project3/Infographic2.jpeg) 
+*Gettysburg College Infographic*
+
+---
+
+### 📁 Files
+
+- 🌐 [Report (Google Drive)](https://drive.google.com/file/d/1mRG9we8EjRArsFWugTmsDzTt3BXqc0QY/view?usp=sharing)
+---
+
+### 🌐 Data Sources
+
+- [IPEDS – Gettysburg College Profile](https://nces.ed.gov/ipeds/institution-profile/212674)  
+- [College Factual – Visual & Performing Arts at Gettysburg](https://www.collegefactual.com/colleges/gettysburg-college/academic-life/academic-majors/visual-and-performing-arts)
+- [Gettysburg College Website](https://www.gettysburg.edu)
+
+---
+
+### 🤖 Citations
+
+- **ChatGPT** — Helped draft report, refine captions, and plan infographic structure  
+- **Gettysburg.edu** — For key statistics, structure, and student life reference points
 
 
-If you'd like to connect, collaborate, or just talk about art and data:
 
 
-- 📧 [Email Me](mailto:your@email.com)
-- 🌐 [Website](https://yourwebsite.com)
-- 💻 [GitHub](https://github.com/yourusername)
+
 
 
 
