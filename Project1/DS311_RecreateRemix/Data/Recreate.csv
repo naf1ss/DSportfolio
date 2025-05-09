@@ -1,0 +1,19 @@
+ID Year,Year,ID Gender,Gender,ID Workforce Status,Workforce Status,ID Nation,Nation,ID Detailed Occupation,Detailed Occupation,Average Wage,Average Wage Appx MOE
+2022,"2022",1,"Male","true","true","01000US","United States","271010","Artists & related workers",74779.92637565489,5850.185432177562
+2022,"2022",2,"Female","true","true","01000US","United States","271010","Artists & related workers",49881.57037943696,5361.218409982872
+2021,"2021",1,"Male","true","true","01000US","United States","271010","Artists & related workers",70281.44909410104,5612.056704970726
+2021,"2021",2,"Female","true","true","01000US","United States","271010","Artists & related workers",47643.49453572449,5159.834490947641
+2020,"2020",1,"Male","true","true","01000US","United States","271010","Artists & related workers",67277.06843711843,5527.539282411842
+2020,"2020",2,"Female","true","true","01000US","United States","271010","Artists & related workers",45543.52408209075,5134.763786198643
+2019,"2019",1,"Male","true","true","01000US","United States","271010","Artists & related workers",66244.44045854207,5473.40038124896
+2019,"2019",2,"Female","true","true","01000US","United States","271010","Artists & related workers",44717.911222116956,5475.906060090226
+2018,"2018",1,"Male","true","true","01000US","United States","271010","Artists & related workers",65725.4291181318,5514.574615267026
+2018,"2018",2,"Female","true","true","01000US","United States","271010","Artists & related workers",43021.55042056877,5243.069539844803
+2017,"2017",1,"Male","true","true","01000US","United States","271010","Artists & related workers",64691.9130453156,5448.141086962729
+2017,"2017",2,"Female","true","true","01000US","United States","271010","Artists & related workers",41660.53350791572,5183.700555537573
+2016,"2016",1,"Male","true","true","01000US","United States","271010","Artists & related workers",63031.093635085825,5363.320252581672
+2016,"2016",2,"Female","true","true","01000US","United States","271010","Artists & related workers",40777.0866069185,5221.4462234288085
+2015,"2015",1,"Male","true","true","01000US","United States","271010","Artists & related workers",62711.651937225586,5541.86655165593
+2015,"2015",2,"Female","true","true","01000US","United States","271010","Artists & related workers",42556.34816162768,5588.668289801043
+2014,"2014",1,"Male","true","true","01000US","United States","271010","Artists & related workers",63171.519802054885,5645.799558610318
+2014,"2014",2,"Female","true","true","01000US","United States","271010","Artists & related workers",41798.42373235513,4998.414002352231
