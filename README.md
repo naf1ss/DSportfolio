@@ -60,13 +60,20 @@ I transformed the original line graph into a grouped bar chart to improve clarit
 
 ---
 
+### 📊 Final Visualization
+
+![Recreate](Project1/DS311_RecreateRemix/Recreate.png)
+*Recreate*
+
+![Remix](Project1/DS311_RecreateRemix/Remix.png)
+*Remix*
+
 
 ### 📁 Files
 
 
-- 📓 [Code]()
-- 📊 [Final Visualization](assets/gender_wage_bar_chart.png) 
-- 📄 [Full Report PDF](assets/RECREATE_REMIX_Report.pdf)
+- 📓 [Code](Project1/DS311_RecreateRemix/Recreate.ipynb)
+- 📄 [Report (Google Drive)](https://drive.google.com/file/d/1U16qUJi2muKRY6udXty72g4gZieJKR-Y/view?usp=drivesdk)
 
 
 ---
